@@ -1,0 +1,12 @@
+Bugs
+====
+
+Scripts to reproduce current major bugs in **vplanet**.
+
+.. toctree::
+   :maxdepth: 1
+
+
+
+   bugs/backward
+   bugs/period
